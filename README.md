@@ -5,12 +5,14 @@
 - 대상 : 파이썬 기초 문법을 다지고 싶은 사람, 같이 공부하고 싶은 사람 등등
 
 # 목차
-[1. How to Start](#-How-to-Start)
-  - [Install Repo](#-Install-Repo)
-  - [Git 설치](#-Git-설치)
+[1. How to Start](#1-how-to-start)
+  - [Install Repo](#install-repo)
+  - [Git 설치](#git-설치)
+
+[2. How to Use Repo](#2-how-to-use-repo)
 
 
-# How to Start
+# 1. How to Start
 ## Install Repo
 ```bash
 git clone https://github.com/dozone01/python-basic-study.git
@@ -52,3 +54,9 @@ git --version
 ```bash
 git version 2.xx.x.windows.x
 ```
+
+# 2. How to Use Repo
+
+- `git pull origin main` 명령어로 최신 상태로 업데이트
+- 풀 문제를 copy 하여 마지막에 `xxxx copy.ipynb` 형태가 되도록 하기
+  - 깃에서 인식을 안하도록 하기 위한 조치 입니다.

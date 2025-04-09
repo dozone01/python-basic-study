@@ -5,9 +5,9 @@
 - 대상 : 파이썬 기초 문법을 다지고 싶은 사람, 같이 공부하고 싶은 사람 등등
 
 # 목차
-[1. How to Start] (#-How-to-Start)
-  - [Install Repo] (#-Install-Repo)
-  - [Git 설치] (#-Git-설치)
+[1. How to Start](#-How-to-Start)
+  - [Install Repo](#-Install-Repo)
+  - [Git 설치](#-Git-설치)
 
 
 # How to Start

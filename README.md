@@ -22,6 +22,8 @@ code .
 
 ## Git 설치
 - git 설치가 힘들시 페이지 오른쪽 상단의 `<>Code` > `Download ZIP` 을 통해서 다운로드
+- Git 설치해서 사용할 경우 [2. How to Use Repo](#2-how-to-use-repo)를 꼭 참고 후 사용하기.
+  - 그렇지 않으면 merge 지옥을 만날 수도 있어요.
 
 ### ✅ 1. Git 설치 파일 다운로드
 1. Git 공식 홈페이지에 접속

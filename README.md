@@ -4,8 +4,21 @@
 - 시간 : 평일 17:00~17:40
 - 대상 : 파이썬 기초 문법을 다지고 싶은 사람, 같이 공부하고 싶은 사람 등등
 
+# 목차
+[1. How to Start](#-How-to-Start)
+  - [Install Repo](#-Install-Repo)
+  - [Git 설치](#-Git-설치)
+
+
 # How to Start
-# Git 설치
+## Install Repo
+```bash
+git clone https://github.com/dozone01/python-basic-study.git
+cd python-basic-study
+code .
+```
+
+## Git 설치
 - git 설치가 힘들시 페이지 오른쪽 상단의 `<>Code` > `Download ZIP` 을 통해서 다운로드
 
 ### ✅ 1. Git 설치 파일 다운로드

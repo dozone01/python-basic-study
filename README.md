@@ -7,6 +7,7 @@
 # 목차
 [1. How to Start](#1-how-to-start)
   - [Install Repo](#install-repo)
+  - [How to Setup Python ENV](#how-to-setup-python-env)
   - [Git 설치](#git-설치)
 
 [2. How to Use Repo](#2-how-to-use-repo)
@@ -18,6 +19,23 @@
 git clone https://github.com/dozone01/python-basic-study.git
 cd python-basic-study
 code .
+```
+
+## How to Setup Python `ENV`
+
+### pip
+```bash
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+### conda
+```bash
+conda create -n turtle python=3.12 -y
+conda activate turtle
+conda install -y jupyter 
+conda install -y r::r-turtlegraphics
+conda install -y conda-forge::pygame
 ```
 
 ## Git 설치
